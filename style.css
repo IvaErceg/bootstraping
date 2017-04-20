@@ -1,0 +1,11 @@
+body {
+    padding-top: 70px;
+}
+.glyphicon {
+    padding-right: 10px;
+}
+.jumbotron {
+    background-color:#03558F;
+    color: white;
+    text-align: center;
+}
